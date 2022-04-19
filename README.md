@@ -2,18 +2,16 @@
 
 ## What is a Palindrome?
 
-According to wikipedia, "A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward, such as madam or kayak."
+"A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward, such as madam or kayak." - Wikipedia
 
-## Premise
+## Requirements
 
-With the definition in mind, we are going to create a program that can detect if a word is a Palindrome.
-
-* Your method should take in a word as a parameter and determine if the word is a palindrome. In both scenarios (true or false), it should respond accordingly.
-* Your palindrome should be able to handle both integers and strings.
+* Write a function that takes in a word as a parameter and determines if the word is a palindrome. The function should indicate that the word is or isn't a palindrome by returning True or Falsee. 
+* Your function should be able to handle both integers and strings.
 
 ## Test Your Code
 
-Remember. Red, Green, Refactor. You should start this exercise by running the test spec, palindrome_spec.py (```python palindrome_spec.py```).
+Remember. Red, Green, Refactor. You should start this exercise by running the test spec, palindrome_spec.py (```python palindrome_spec.py```). After the tests fail, write code to make them pass.
 
 ## Challenge Yourself
 
